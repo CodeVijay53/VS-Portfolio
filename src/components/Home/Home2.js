@@ -50,7 +50,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Node.js</b>
+                <b className="purple"> React.js, Node.js, Three.js, Forge</b>
               </i>
             </p>
           </Col>

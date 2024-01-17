@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Vijay Shankar </span>
             from <span className="purple"> Chennai, India.</span>
             <br />
-            I am currently learning and into development of MERN web softwares.
+            I am Mechanical Engineer with CAD Skills and Web development
             <br />
             I have completed a Full Stack Web Development in GUVI, India and
             learning each day

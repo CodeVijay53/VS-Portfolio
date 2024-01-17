@@ -10,14 +10,11 @@ import {
   DiAws,
   DiGit,
 } from "react-icons/di";
-import { SiAutodesk } from "react-icons/si";
+import { SiAutodesk, SiThreedotjs } from "react-icons/si";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
@@ -27,6 +24,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiThreedotjs />
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
