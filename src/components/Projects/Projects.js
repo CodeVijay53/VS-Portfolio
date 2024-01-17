@@ -24,7 +24,7 @@ function Projects() {
               imgPath={ticketing}
               isBlog={false}
               title="Query Ticketing"
-              description=" Ticketing system for query resolving"
+              description=" Ticketing system for query resolving build on React.js and Node.js"
               ghLink="https://github.com/CodeVijay53/query-app-frontend"
               demoLink="https://stupendous-phoenix-e12632.netlify.app/"
             />
@@ -57,7 +57,7 @@ function Projects() {
               imgPath={hubs}
               isBlog={false}
               title="APS Hubs"
-              description="The Autodesk Hubs build on Forge, node.js' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="The Autodesk Hubs build on Forge, Node.js'"
               ghLink="https://github.com/CodeVijay53/APS-Hubs-Browser"
               demoLink="https://aps-hubs-browser.onrender.com/"
             />
