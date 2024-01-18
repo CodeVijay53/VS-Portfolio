@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiVisualstudiocode, SiAutodeskrevit, SiPostman } from "react-icons/si";
+import { SiVisualstudiocode, SiPostman } from "react-icons/si";
+import { SiAutodeskrevit } from "react-icons/si";
 
 function Toolstack() {
   return (
