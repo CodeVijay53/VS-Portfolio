@@ -10,7 +10,7 @@ import {
   DiAws,
   DiGit,
 } from "react-icons/di";
-import { SiAutodesk,SiAutodeskrevit, SiThreedotjs } from "react-icons/si";
+import { SiAutodesk, SiThreedotjs } from "react-icons/si";
 
 
 function Techstack() {
