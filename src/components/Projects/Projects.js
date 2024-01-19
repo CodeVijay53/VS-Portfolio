@@ -16,7 +16,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are the few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -34,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={designaut}
               isBlog={false}
-              title="Design Automation"
+              title="APS Design Automation"
               description="The Autodesk design automation build on Forge, Node.js"
               ghLink="https://github.com/CodeVijay53/APS-Design-Automation"
               demoLink="https://aps-design-automation.onrender.com/"

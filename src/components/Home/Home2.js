@@ -19,23 +19,25 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and involved in continuos
-              learning of MERN Stack Web development… 🤷‍♂️
+              I fell in love with programming and involved in continuous
+              development of MERN Stack Web… 🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
                 <b className="purple">
                   {" "}
-                  Javascript, React.js, Node.js, Three.js,Forge, MongoDB, MySQL,
-                  AWS, System Design.{" "}
+                  HTML, CSS, Javascript, React.js, Node.js, Three.js,Forge,
+                  MongoDB, MySQL, AWS, System Design.{" "}
                 </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and 3D Products </b> and
-                also in areas related to{" "}
+                <b className="purple">
+                  Applications and 3D AEC based Products{" "}
+                </b>{" "}
+                and also in areas related to{" "}
                 <b className="purple">AEC/Finance/Energy.</b>
               </i>
               <br />
@@ -45,7 +47,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Library and Frameworks based on 3D Web apps
                 </b>
               </i>
               &nbsp; like

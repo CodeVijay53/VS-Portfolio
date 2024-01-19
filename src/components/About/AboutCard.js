@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Vijay Shankar </span>
             from <span className="purple"> Chennai, India.</span>
             <br />
-            I am Mechanical Engineer with CAD Skills and Web development
+            I am an Engineer with Web development in MERN stack Web development.
             <br />
-            I have completed a Full Stack Web Development in GUVI, India and
-            learning each day
+            I have completed Full Stack Web Development Bootcamp in GUVI, India
+            and learning each day also devveloping application on my own.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
