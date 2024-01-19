@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+
 import {
   DiJavascript1,
   DiReact,
@@ -11,6 +11,7 @@ import {
   DiGit,
 } from "react-icons/di";
 import { SiAutodesk, SiThreedotjs } from "react-icons/si";
+
 
 function Techstack() {
   return (
