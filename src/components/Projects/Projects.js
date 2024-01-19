@@ -24,7 +24,7 @@ function Projects() {
               imgPath={ticketing}
               isBlog={false}
               title="Query Ticketing"
-              description=" Ticketing system for query resolving build on React.js and Node.js"
+              description=" Ticket managing system for query resolving build on React.js and Node.js"
               ghLink="https://github.com/CodeVijay53/query-app-frontend"
               demoLink="https://stupendous-phoenix-e12632.netlify.app/"
             />
