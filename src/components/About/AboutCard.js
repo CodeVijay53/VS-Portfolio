@@ -28,6 +28,11 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
           </ul>
+                        <p style={{ color: "rgb(155 126 172)" }}>
+            "Failure will never overtake me if my definition to succeed is strong enough"{" "}
+          </p>
+          <footer className="blockquote-footer">A.P.J Abdul kalam
+</footer>
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Disrupt the industry with inexperience!"{" "}
